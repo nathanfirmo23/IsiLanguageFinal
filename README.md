@@ -16,6 +16,9 @@ No momento da compilação é printado o resultado, warnings ou possíveis erros
 Os integrantes do grupo do projeto foram:
 
 Ariel Magalhães Bellio 11061215
+
 Juliana Cavalaro de Oliveira 11100013
+
 João Pedro Martini Gomes 11201722884
+
 Nathan Palmares da Silva Firmo 11201811807
