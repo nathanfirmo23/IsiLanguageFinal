@@ -11,7 +11,7 @@ Foi realizada a tentativa de implementar um interpretador, que funciona de forma
 
 No momento da compilação é possível gerar código em duas linguagens alvos distintas, C e Java. Basta passar como parâmetro o nome da linguagem na função da classe parser generateObjectCode (será gerado um arquivo input.c ou MainClass.java).
 
-No momento da compilação é printado o resultado, warnings ou possíveis erros, além de informações sobre os identificadores com os valores do mesmo após a compilação. Quando o comando leia é inserido no código, para permitir análise de valor em tempo real de compilação (avaliação das operações aritméticas), é atribuído um valor aleatório nos tipos REAL e INTENGER, e um texto genérico no tipo TEXTO.
+No momento da compilação é printado o resultado, warnings ou possíveis erros, além de informações sobre os identificadores com os valores do mesmo após a compilação. Quando o comando leia é inserido no código, para permitir análise de valor em tempo real de compilação (avaliação das operações aritméticas), é atribuído um valor aleatório nos tipos REAL e INTEGER, e um texto genérico no tipo TEXTO.
 
 Os integrantes do grupo do projeto foram:
 
