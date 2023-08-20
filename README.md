@@ -7,7 +7,7 @@ Toda a gramática está no arquivo TypeExpression.g4, a compilação foi realiza
 
 Os arquivos de entrada são do tipo .expr, alguns exemplos de entradas utilizadas no vídeo (algumas para simular erros e warnings também) estão disponíves no repositório.
 
-Foi realizada a tentativa de implementar um interpretador, que funciona de forma parcial reconhecendo alguns comandos (mas com dificuldade em outros). Para rodar o interpretador basta remover os comentários da linha 26 na classe MainClass.
+Foi realizada a tentativa de implementar um interpretador, que funciona de forma parcial reconhecendo alguns comandos (mas com dificuldade em outros). Para rodar o interpretador basta remover os comentários da linha 21 na classe MainClass.
 
 No momento da compilação é possível gerar código em duas linguagens alvos distintas, C e Java. Basta passar como parâmetro o nome da linguagem na função da classe parser generateObjectCode (será gerado um arquivo input.c ou MainClass.java).
 
