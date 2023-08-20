@@ -1,1 +1,9 @@
+/MainClass.class
+/TypeExpression.interp
+/TypeExpression.tokens
+/TypeExpressionLexer.interp
+/TypeExpressionLexer.tokens
 /ast/
+/expressions/
+/parser/
+/symbols/
